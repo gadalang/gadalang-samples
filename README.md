@@ -28,6 +28,8 @@ $ python -m gada gadalang_samples.helloworld
 hello world !
 ```
 
+See [gadalang_samples/config.yml](gadalang_samples/config.yml) for a complete list of samples.
+
 ## Testing
 
 The `test` directory contains many tests that you can run with:
