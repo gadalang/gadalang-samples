@@ -15,10 +15,17 @@ pip install gadalang-samples
 
 ## Usage
 
+Install [gada](https://github.com/gadalang/gada) using pip:
+
+```bash
+$ python -m pip install gada
+```
+
 Run `helloworld` sample:
 
 ```bash
-gada helloworld
+$ python -m gada gadalang_samples.helloworld
+hello world !
 ```
 
 ## Testing
