@@ -33,11 +33,11 @@ hello world !
 The `test` directory contains many tests that you can run with:
 
 ```python
-python setup.py test
+$ python setup.py test
 ```
 
 Or with coverage:
 
 ```python
-coverage run --source=gadalang_samples setup.py test
+$ coverage run --source=gadalang_samples setup.py test
 ```
