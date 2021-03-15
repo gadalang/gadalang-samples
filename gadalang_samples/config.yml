@@ -1,0 +1,6 @@
+runner: python
+nodes:
+  helloworld:
+    entrypoint: hello_world
+  echo:
+    entrypoint: echo
