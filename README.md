@@ -5,7 +5,7 @@
 
 Collection of sample nodes for [gada](https://github.com/gadalang/gada).
 
-## Install
+## Installing
 
 Using pip:
 
@@ -13,7 +13,7 @@ Using pip:
 pip install gadalang-samples
 ```
 
-## Usage
+## Running samples
 
 Install [gada](https://github.com/gadalang/gada) using pip:
 
